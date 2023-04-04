@@ -5,13 +5,6 @@ import sys
 
 os.system("clear")
 print('''\033[91m
-╭━━━━┳━╮╭━┳╮╱╭┳━╮╭━┳━━━┳━━━┳╮╭━┳━━━╮
-┃╭╮╭╮┃┃╰╯┃┃┃╱┃┣╮╰╯╭┫╭━╮┃╭━╮┃┃┃╭┫╭━╮┃
-╰╯┃┃╰┫╭╮╭╮┃┃╱┃┃╰╮╭╯┃╰━╯┃┃╱╰┫╰╯╯┃┃╱╰╯v3.0
-╱╱┃┃╱┃┃┃┃┃┃┃╱┃┃╭╯╰╮┃╭━━┫┃╱╭┫╭╮┃┃┃╭━╮
-╱╱┃┃╱┃┃┃┃┃┃╰━╯┣╯╭╮╰┫┃╱╱┃╰━╯┃┃┃╰┫╰┻━┃
-╱╱╰╯╱╰╯╰╯╰┻━━━┻━╯╰━┻╯╱╱╰━━━┻╯╰━┻━━━╯
-       CREATED BY HACKER WASII
 ''')
 def slowprint(s):
     for c in s + '\n' :
@@ -22,8 +15,6 @@ def slowprint(s):
 print (''' \033[95m
 +--------------------------------------+
 | This Tool Install All Basic Packages |
-+--------------------------------------+
-| Coded By Waseem Akram |version : 3.0|
 +--------------------------------------+''')
 
 slowprint(''' \033[93m
@@ -114,11 +105,6 @@ def slowprint(s):
         sys.stdout.write(c)
         sys.stdout.flush()
         time.sleep(8. / 100)
-print("\033[95m+-------------------------------------------------+")
-slowprint('''\033[95m|             Welcome To Hacker wasii           |
-|           Subscribe Our YouTube Channel         |
-|                  Hacker wasi  |''')
-print("+-------------------------------------------------+")
 
 
 input("\n\nPress the enter key to exit : ")
